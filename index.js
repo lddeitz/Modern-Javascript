@@ -8,7 +8,7 @@ var result = math.round(math.e, 3);
 console.log(result);
 
 // ==== ES6 Code to Demo
-var name = "Steve";
+var name = "Tony";
 var time = "today";
 
 console.log(`Hi ${name}, how are you doing ${time}?`);
